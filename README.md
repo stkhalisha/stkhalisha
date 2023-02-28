@@ -5,7 +5,7 @@
 
 - 🔭 Take a look on my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/stkhalisha)
 
-- 🌱 I’m currently learning **📌 Javascript, React**
+- 🌱 I’m currently learning **📌 Javascript**
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
