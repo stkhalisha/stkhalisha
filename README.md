@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Khalisha 👋🏼</h1>
 
-- 🔭 Take a look on my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/stkhalisha)
+- 🔭 Take a look on my [Frontend Mentor](https://www.frontendmentor.io/profile/stkhalisha) project results
 
 - 🌱 I’m currently learning **📌 Javascript**
 
