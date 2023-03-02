@@ -1,7 +1,7 @@
 
 ![3](https://user-images.githubusercontent.com/60285814/221492091-26734743-4c4d-4b17-a079-ea023d30dfc5.jpg)
 
-<h1 align="center">Hi, I'm Khalisha 👋🏼</h1>
+<h1 align="center">Hello, I'm Khalisha 👋🏼</h1>
 
 - 🔭 Take a look on my [Frontend Mentor](https://www.frontendmentor.io/profile/stkhalisha) project results
 
