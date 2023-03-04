@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **📌 Javascript**
 
-- 💬 Ask me about **HTML, CSS & JavaScript**
+- 💬 Ask me about **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **stkhalisha@gmail.com**
 
