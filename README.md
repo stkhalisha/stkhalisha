@@ -3,13 +3,14 @@
 
 <h1 align="center">Hello there, I'm Khalisha 👋🏼</h1>
 
-- 🔭 Take a look on my [Frontend Mentor](https://www.frontendmentor.io/profile/stkhalisha) project results
+
+- 🔍 Take a look on my projects on <a href="https://www.frontendmentor.io/profile/stkhalisha" target="_blank" rel="noreferrer">Frontend Mentor</a>
 
 - 🌱 I’m currently learning **📌 Javascript**
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
-- 🤝 Open to collaborate to any projects
+- 🤝 Open to collaborate to any projects. Feel free to connect with me on 💌gmail!
 
 
 <h2 align="left">⚒️ Languages and Tools:</h2>
