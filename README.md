@@ -6,7 +6,7 @@
 
 - 🔍 Take a look on my projects on <a href="https://www.frontendmentor.io/profile/stkhalisha" target="_blank" rel="noreferrer">Frontend Mentor</a>
 
-- 🌱 I’m currently learning **📌Javascript**
+- 🌱 I’m currently learning **📌 Javascript**
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
