@@ -1,4 +1,6 @@
-![header0](https://user-images.githubusercontent.com/60285814/224473534-49af7768-e4df-486a-9b9e-dad95203ecd3.png)
+
+![Header Github](https://user-images.githubusercontent.com/60285814/224474840-bb91f487-e33b-4540-92a0-bf63dcd53b68.png)
+
 
 <h1 align="center">Hello there, I'm Khalisha 👋🏼</h1>
 
