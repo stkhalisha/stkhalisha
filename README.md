@@ -21,8 +21,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
   <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="VSCode" width="50" height="50"/> 
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="50" height="50"/>
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
- <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" alt="canva" width="50" height="50"/></p>
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></p>
  
   
 
