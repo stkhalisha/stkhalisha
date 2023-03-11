@@ -1,5 +1,4 @@
-
-![3](https://user-images.githubusercontent.com/60285814/221492091-26734743-4c4d-4b17-a079-ea023d30dfc5.jpg)
+![header0](https://user-images.githubusercontent.com/60285814/224473534-49af7768-e4df-486a-9b9e-dad95203ecd3.png)
 
 <h1 align="center">Hello there, I'm Khalisha 👋🏼</h1>
 
@@ -10,7 +9,7 @@
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
-- 🤝 Open to collaborate to any projects. Feel free to connect with me on 💌gmail!
+- 🤝 Open to collaborate to frontend projects. Feel free to connect with me on 💌gmail!
 
 
 <h2 align="left">⚒️ Languages and Tools:</h2>
