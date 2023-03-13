@@ -10,14 +10,24 @@
 - 🤝 Open to collaborate to any frontend projects. Feel free to connect with me on 💌gmail!
 
 
-<h2 align="left">⚒️ Languages and Tools:</h2>
-<p align="left"> 
+<h2 align="center">⚒️ Languages and Tools:</h2>
+
+<div align = "center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="VSCode" width="50" height="50"/> 
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" width="50" height="50"/>
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></p>
- 
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stkhalisha&theme=radical" alt="stkhalisha" /></p>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></p>
+</div>
+
+<h2 align="center">📊 Github Stats</h2>
+
+<div align = "center">
+
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=stkhalisha&theme=radical)
+![Github Stats]( https://github-readme-stats.vercel.app/api?username=stkhalisha&show_icons=true&locale=en&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stkhalisha&hide_progress=true&theme=radical)
+
+</div>
+
