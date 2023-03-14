@@ -10,7 +10,7 @@
 - 🤝 Open to collaborate to any frontend projects. Feel free to connect with me on 💌gmail!
 
 
-<h2 align="center">⚒️ Languages and Tools:</h2>
+<h2 align="center">⚒️ Languages and Tools</h2>
 
 <div align = "center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
