@@ -7,7 +7,7 @@
 - 🌱 I’m consistently teaching myself on becoming a frontend developer. Currently learning **📌 JavaScript**
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/stkhalisha" target="_blank" rel="noreferrer">Frontend Mentor</a>
 - 💬 Ask me about **HTML, CSS and JavaScript**
-- 🤝 Open to collaborate to any frontend projects. Feel free to connect with me on 💌gmail! 
+- 🤝 Open to collaborate to any frontend projects. Feel free to connect with me on <a href="mailto:stkhalisha@gmail.com" target="_blank" rel="noreferrer">💌 gmail!</a>  
 
 
 <h2 align="center">⚒️ Languages and Tools</h2>
