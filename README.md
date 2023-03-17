@@ -33,4 +33,4 @@
 
 </div>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=stkhalisha&color=cf7725&style=flat" alt="profileview"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=stkhalisha&color=e85188&style=flat" alt="profileview"/></p>
