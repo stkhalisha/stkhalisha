@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello there, I'm Khalisha 👋🏼</h1>
 
-- 🌱 I’m consistently teaching myself on becoming a frontend developer. Currently learning **📌 JavaScript**
+- 🌱 I’m consistently teaching myself on becoming a frontend developer. Currently learning **📌 JavaScript & React 💪🏽**
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/stkhalisha" target="_blank" rel="noreferrer">Frontend Mentor</a>
 - 💬 Ask me about **HTML, CSS and JavaScript**
 - 🤝 Open to collaborate to any frontend projects. Feel free to connect with me through <a href="mailto:stkhalisha@gmail.com" target="_blank" rel="noreferrer">💌 gmail</a> !
