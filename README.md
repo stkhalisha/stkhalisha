@@ -2,9 +2,8 @@
 ![Header Github](https://user-images.githubusercontent.com/60285814/224474840-bb91f487-e33b-4540-92a0-bf63dcd53b68.png)
 
 - 👸🏻 Self-taught
-- 🌱 I’m consistently teaching myself on becoming a frontend developer. Currently learning **📌 JavaScript & React 💪🏽**
+- 🌱 I’m consistently teaching myself on becoming a frontend developer. Currently learning **📌 JavaScript & Vue 💪🏽**
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/stkhalisha" target="_blank" rel="noreferrer">Frontend Mentor</a>
-- 💬 Ask me about **HTML, CSS and JavaScript**
 - 🤝 Open to collaborate to any frontend projects. Feel free to connect with me through <a href="mailto:stkhalisha@gmail.com" target="_blank" rel="noreferrer">💌 gmail</a> !
 
 
