@@ -25,8 +25,7 @@
 <div align = "center">
 
 
-![Github Stats]( https://github-readme-stats.vercel.app/api?username=stkhalisha&show_icons=true&locale=en&theme=synthwave)
- <br>
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stkhalisha&hide_progress=true&theme=synthwave)
 
 </div>
