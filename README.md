@@ -24,8 +24,6 @@
 
 <div align = "center">
 
-
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stkhalisha&hide_progress=true&theme=synthwave)
 
 </div>
