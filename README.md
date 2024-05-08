@@ -7,7 +7,11 @@
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/stkhalisha" target="_blank" rel="noreferrer">Frontend Mentor</a>
 - 🤝 Open to collaborating on any frontend projects. Feel free to connect with me through <a href="mailto:khalisha.code@gmail.com" target="_blank" rel="noreferrer">💌 gmail</a> 
 
+<br>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,sass,bootstrap,figma,vscode,git,github,notion,)](https://skillicons.dev)
+
+<br>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=stkhalisha&show_icons=true&theme=synthwave" />
