@@ -14,8 +14,11 @@
 <br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=stkhalisha&show_icons=true&theme=calm" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stkhalisha&layout=compact&theme=calm&hide_border=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=stkhalisha&show_icons=true&theme=calm_pink" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stkhalisha&hide_progress=true&layout=compact&theme=calm_pink&hide_border=true" " />
 </div>
+
+
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=stkhalisha&color=E4C59E&style=flat" alt="profileview"/></p>
